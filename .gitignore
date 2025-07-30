@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# IDE config (PyCharm)
+.idea/
+
+# Mac system files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Test cache
+.pytest_cache/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Uploads or large temp files
+uploads/
+*.gz
+*.tbi
+
+# FAISS or Vector DB cache
+index.faiss
+*.pkl
+
+# Ignore personal genomic data files
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.tbi
+
+# Optional: ignore all files in /data
+app/data/
+

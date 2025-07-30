@@ -1,0 +1,1 @@
+# Lưu & truy vấn FAISS vector database

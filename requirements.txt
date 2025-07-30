@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+openai
+cyvcf2
+faiss-cpu
+sentence-transformers
+python-dotenv
+aiofiles
+pydantic

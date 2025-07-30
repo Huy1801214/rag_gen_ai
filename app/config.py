@@ -1,0 +1,1 @@
+# Load cấu hình và biến môi trường vào ứng dụng
